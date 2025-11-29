@@ -1,0 +1,6 @@
+thanatus-tool/
+│
+├── thanatus3.sh
+├── README.md
+├── LICENSE
+└── logs/      (boş klasör – sadece tool oluşturacak)
